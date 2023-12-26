@@ -65,6 +65,89 @@
         </div>
     </section>
 
+ <!-- reviwes section  --> 
+<section class="reviews">
+    <div class="heading-title">clients reviews</div>
+    <div class="swiper reviews-slider">
+        <div class="swiper-wrapper">
+            <div class="swiper-slider slide">
+                <div class="stars"> 
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim exercitationem nesciunt ad? Tenetur, a provident cupiditate illum voluptas qui quos ducimus, magnam perferendis quaerat odit possimus animi, nostrum hic optio quis minima voluptates asperiores ea! Magnam error necessitatibus omnis animi perferendis at porro, optio corrupti laborum ad ducimus corporis. Molestiae!</p>
+                <h3>john deo</h3>
+                <span>traveler</span>
+                <img src="assret/slider-1.jpg" alt="man">
+            </div>
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                  
+                </div>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim exercitationem nesciunt ad? Tenetur, a provident cupiditate illum voluptas qui quos ducimus, magnam perferendis quaerat odit possimus animi, nostrum hic optio quis minima voluptates asperiores ea! Magnam error necessitatibus omnis animi perferendis at porro, optio corrupti laborum ad ducimus corporis. Molestiae!</p>
+                <h3>iohn deo</h3>
+                <span>traveler</span>
+                <img src="" alt="man">
+            </div>
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim exercitationem nesciunt ad? Tenetur, a provident cupiditate illum voluptas qui quos ducimus, magnam perferendis quaerat odit possimus animi, nostrum hic optio quis minima voluptates asperiores ea! Magnam error necessitatibus omnis animi perferendis at porro, optio corrupti laborum ad ducimus corporis. Molestiae!</p>
+                <h3>iohn deo</h3>
+                <span>traveler</span>
+                <img src="" alt="man">
+            </div>
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    
+                </div>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim exercitationem nesciunt ad? Tenetur, a provident cupiditate illum voluptas qui quos ducimus, magnam perferendis quaerat odit possimus animi, nostrum hic optio quis minima voluptates asperiores ea! Magnam error necessitatibus omnis animi perferendis at porro, optio corrupti laborum ad ducimus corporis. Molestiae!</p>
+                <h3>iohn deo</h3>
+                <span>traveler</span>
+                <img src="" alt="man">
+            </div>
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    
+                </div>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim exercitationem nesciunt ad? Tenetur, a provident cupiditate illum voluptas qui quos ducimus, magnam perferendis quaerat odit possimus animi, nostrum hic optio quis minima voluptates asperiores ea! Magnam error necessitatibus omnis animi perferendis at porro, optio corrupti laborum ad ducimus corporis. Molestiae!</p>
+                <h3>iohn deo</h3>
+                <span>traveler</span>
+                <img src="" alt="man">
+            </div>
+            <div class="swiper-slider slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim exercitationem nesciunt ad? Tenetur, a provident cupiditate illum voluptas qui quos ducimus, magnam perferendis quaerat odit possimus animi, nostrum hic optio quis minima voluptates asperiores ea! Magnam error necessitatibus omnis animi perferendis at porro, optio corrupti laborum ad ducimus corporis. Molestiae!</p>
+                <h3>iohn deo</h3>
+                <span>traveler</span>
+                <img src="" alt="man">
+            </div>
+        </div>
+    </div>
+</section>
+
+ <!-- reviwes section end   -->
 
 
     <!-- footer section start -->
